@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Medewerker van de maand</string>
+    <string name="file_provider_authority" translatable="false">com.example.medewerkervandemaand.fileprovider</string>
+</resources>
